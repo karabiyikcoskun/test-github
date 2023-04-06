@@ -1,2 +1,2 @@
 # test-github
-this isa test for github connection
+this is a test for github connection
